@@ -1,6 +1,6 @@
 # 🌟 **A Complete Guide to Version Control** 🌟
 
-Welcome to **Git Assignment 2**! 🎉 In this guide, we’ll walk you through **every step** using Git commands to complete your project. This hands-on approach will make you familiar with key Git concepts like branches, commits, and pull requests.
+Welcome to **Git Assignment**! 🎉 In this guide, we’ll walk through **every step** using Git commands to complete our project. This hands-on approach will make us familiar with key Git concepts like branches, commits, and pull requests.
 
 Let’s get started! 🚀
 
